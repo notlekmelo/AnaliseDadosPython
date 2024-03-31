@@ -1,4 +1,4 @@
-Até a quarta terceira aula foinos apresentado um arquivo excel com três planilhas nele. 
+Até a terceira aula fomos apresentados a um arquivo excel com três planilhas nele. 
 Nas aulas aprendemos a manipular essas planilhas fezendo operações simples de porcentagem, mas também operações mais complexas como o procv (também chamado de Vlookup) e a geração de gráficos através de agrupamentos. 
 
 Um momento interessante da aula foi quando geramos uma nova planilha para preencher o segmento de cada empresa utilizando o chat GPT. 
